@@ -1,0 +1,5 @@
+numpy>=1.24
+PyAudioWPatch>=0.2.12   # WASAPI loopback capture (Windows)
+pycaw>=20240210         # Core Audio sessions / device format (Windows)
+comtypes>=1.4
+psutil>=5.9
